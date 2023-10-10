@@ -15,6 +15,23 @@
 <a href="https://linkedin.com/in/leonardo562/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="timmyanderspro" height="30" width="40" /></a>
 </p>
 <br>
+<table>
+<tr>
+<td width="100%">
+<h3 align="center">Proyecto Encriptador de Texto</h3>
+<div align="center">
+<a href="https://github.com/Comando562/Encriptador_Texto" target="_blank"><img src="https://i.imgur.com/HA4hxIX.jpg" width="800" alt="Desafio"></a>
+<p>
+<a href="https://github.com/Comando562/Encriptador_Texto" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</p>
+</p>Realizacion de  <strong> Pagina Web </strong> Como Challenge por parte del Bootcamp Alura, en donde se pide una pagina web para desarrollar  habilidades en lenguaje Javascript, HTML, CSS, con el objetivo de encriptar y desdencriptar textos mediante un algoritmo en Javascript</p>
+</div>
+                                                                                      
+</td>                                                    
+</table>                                                                                 
+</div>
+<br>
 
 ## Practicas Escolares
 <table>
@@ -48,24 +65,7 @@
 </div>                                                             
 </table>                                                                                 
 </div>
-<br>
 
-<table>
-<tr>
-<td width="100%">
-<h3 align="center">Proyecto Encriptador de Texto</h3>
-<div align="center">
-<a href="https://github.com/Comando562/Encriptador_Texto" target="_blank"><img src="https://i.imgur.com/HA4hxIX.jpg" width="800" alt="Desafio"></a>
-<p>
-<a href="https://github.com/Comando562/Encriptador_Texto" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</p>
-</p>Realizacion de  <strong> Pagina Web </strong> Como Challenge por parte del Bootcamp Alura, en donde se pide una pagina web para desarrollar  habilidades en lenguaje Javascript, HTML, CSS, con el objetivo de encriptar y desdencriptar textos mediante un algoritmo en Javascript</p>
-</div>
-                                                                                      
-</td>                                                    
-</table>                                                                                 
-</div>
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
