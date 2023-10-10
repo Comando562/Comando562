@@ -4,8 +4,9 @@
 <div align="center">  
 <img src="https://i.imgur.com/irLwEz2.gif">
 </div>
-## Sobre mi
-- 💻 Backend Developer
+<div align="center">
+<h1 align="center">💻 Backend Developer</h1>
+</div>
 <br>
 
 ## Practicas Escolares
