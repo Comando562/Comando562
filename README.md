@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Leo 👋</h1>
 </div>
-![bueno](https://github.com/Comando562/Comando562/assets/119273389/5a491d0d-aa24-4e90-8b33-b6e03e7a0d64)
+<img src="https://i.imgur.com/irLwEz2.gif">
 ## Sobre mi
 - 💻 Backend Developer
 <br>
@@ -12,7 +12,7 @@
 <td width="50%">
 <h3 align="center">API REST con Spring Boot</h3>
 <div align="center">
-<a href="https://github.com/Comando562/API_SpringB_Medica" target="_blank">![ezgif com-video-to-gif (1)](https://github.com/Comando562/API_SpringB_Medica/assets/119273389/86f10363-1525-47ee-98c4-568b986244c6)</a>
+<a href="https://github.com/Comando562/API_SpringB_Medica" target="_blank"><img src="https://i.imgur.com/qTtkTqm.gif" width="400" alt="Curso Spring Boot"></a>
 <p>
 <a href="https://github.com/Comando562/API_SpringB_Medica" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -27,7 +27,7 @@
                <br>
 <h3 align="center">Bytebank</h3>
 <div align="center">                                       
-<a href="https://github.com/Comando562/PracticasAngularAlura" target="_blank">![ezgif com-crop (1)](https://github.com/Comando562/Encriptador_Texto/assets/119273389/7a18f73f-4442-4f17-a951-5f2bbf7fa9f7)</a>
+<a href="https://github.com/Comando562/PracticasAngularAlura" target="_blank"><img src="https://i.imgur.com/fROR4IY.gif" width="400" alt="Curso Angular 1"></a>
 <br>
 <p>
 <a href="https://github.com/Comando562/PracticasAngularAlura" target="_blank">
@@ -45,7 +45,7 @@
 <td width="100%">
 <h3 align="center">Proyecto Encriptador de Texto</h3>
 <div align="center">
-<a><img ></a>
+<a href="https://github.com/Comando562/Encriptador_Texto" target="_blank"><img src="https://i.imgur.com/HA4hxIX.jpg" width="800" alt="Desafio"></a>
 <p>
 <a href="https://github.com/Comando562/Encriptador_Texto" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
