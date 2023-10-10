@@ -1,7 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy Leo 👋</h1>
 </div>
+<div align="center">  
 <img src="https://i.imgur.com/irLwEz2.gif">
+</div>
 ## Sobre mi
 - 💻 Backend Developer
 <br>
