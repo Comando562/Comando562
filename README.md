@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hola, soy Leo 👋</h1>
-![bueno](https://github.com/Comando562/Comando562/assets/119273389/1e493eaa-e8e3-4710-98ca-00bb7c192f18)
 </div>
+![bueno](https://github.com/Comando562/Comando562/assets/119273389/1e493eaa-e8e3-4710-98ca-00bb7c192f18)
+
 
 ## Sobre mi
 - 💻 Backend Developer
@@ -13,7 +14,7 @@
 <td width="50%">
 <h3 align="center">API REST con Spring Boot</h3>
 <div align="center">
-<a href=""https://github.com/Comando562/API_SpringB_Medica" target="_blank">![ezgif com-video-to-gif (1)](https://github.com/Comando562/API_SpringB_Medica/assets/119273389/86f10363-1525-47ee-98c4-568b986244c6)</a>
+<a href="https://github.com/Comando562/API_SpringB_Medica" target="_blank">![ezgif com-video-to-gif (1)](https://github.com/Comando562/API_SpringB_Medica/assets/119273389/86f10363-1525-47ee-98c4-568b986244c6)</a>
 <p>
 <a href="https://github.com/Comando562/API_SpringB_Medica" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
