@@ -1,9 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Leo 👋</h1>
 </div>
-![bueno](https://github.com/Comando562/Comando562/assets/119273389/1e493eaa-e8e3-4710-98ca-00bb7c192f18)
-
-
+![bueno](https://github.com/Comando562/Comando562/assets/119273389/5a491d0d-aa24-4e90-8b33-b6e03e7a0d64)
 ## Sobre mi
 - 💻 Backend Developer
 <br>
