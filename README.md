@@ -63,12 +63,15 @@
 </p>
 </p>Aplicacion en <strong> BANCA EN LINEA </strong> Este proyecto es una aplicación de banca en línea que permite a los usuarios realizar transferencias de dinero y llevar un registro de sus transacciones    financieras, asi como Registro de Transferencias</p>
 </div>    
+</table>
 
+<table>
+<tr>
 <td width="50%">
                <br>
-<h3 align="center">Bytebank</h3>
+<h3 align="center">Tienda de libros (Java GUI)</h3>
 <div align="center">                                       
-<a href="https://github.com/Comando562/tienda_libros" target="_blank"><img src="https://i.imgur.com/LLXC7.gif" width="400" alt="Curso Tienda de Libros"></a>
+<a href="https://github.com/Comando562/tienda_libros" target="_blank"><img src="https://i.imgur.com/LLXC7p5.gif" width="400" alt="Curso Tienda de Libros"></a>
 <br>
 <p>
 <a href="https://github.com/Comando562/tienda_libros" target="_blank">
@@ -76,9 +79,7 @@
 </a>
 </p>
 </p>Aplicacion en <strong> BANCA EN LINEA </strong> Este proyecto es una aplicación web desarrollada con Spring Boot para gestionar una tienda de libros</p>
-</div>  
-</table>                                                                                 
-</div>
+</div> 
 
 <br>
 <h3 align="left">Connect with me:</h3>
